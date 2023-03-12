@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+h1,h2{
+    position: relative;
+}
+h1{
+    top: 3cm;
+}
+h2{
+    bottom: 30px;
+}
+.long{
+position: relative;
+left: 7cm;
+z-index: 1;
+bottom: 2cm;
+}
+.bg{
+    position: relative;
+    right: 9px;
+}
+.big{
+    position: relative;
+    top: 6.5cm;
+}
+.big1{
+    position: relative;
+    top: 5.5cm;
+}
+.smallblock{
+   position: relative;
+    background-color: rgb(34, 37, 39);
+    left: 5cm;
+    top: 5cm;
+    padding: 40px;
+    color: white;
+    height: 40px;
+    width: 70px;
+    border-radius: 20px;
+}
+
+.bigblock{
+    position: relative;
+     background-color:rgb(34, 37, 39);
+     left: 10cm;
+     top: 5cm;
+     padding: 40px;
+     color: white;
+     height: 325px;
+     width: 90px;
+     border-radius: 20px;
+ }
+ 
+.bigblock2{
+    position: relative;
+     background-color:rgb(34, 37, 39);
+     left: 17cm;
+     bottom: 5.59cm;
+     padding: 40px;
+     color: white;
+     height: 325px;
+     width: 100px;
+     border-radius: 20px;
+ }
+ .bigblocks{
+    position: relative;
+    display: inline-block;
+    bottom: 10.5cm;
+}
+
+.longblock{
+    position: relative;
+    background-color: rgb(34, 37, 39);
+    left: 24cm;
+  bottom: 16.3cm;
+    padding: 40px;
+    color: white;
+    height: 8px;
+    width: 300px;
+    border-radius: 20px;
+}
+
